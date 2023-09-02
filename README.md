@@ -9,6 +9,7 @@
 ![Andressa Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=andressarodrigues2172dev&show_icons=true&theme=synthwave)
 
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressarodrigues2172dev&layout=compact&langs_count=7&theme=radical"/>
+
 ## Tecnologias que uso no meu dia
 
 <div style="display:inline_block"></br>
