@@ -1,12 +1,12 @@
 
-![I'm a Software Engineer (1)](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/b94b840c-ca76-415d-afde-4f8d6ca506c0)
+
 
 # Hi there! I'm Andressa Rodrigues (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
 
 Estou feliz por estar aqui! Sou entusiasta de programação e desenvolvedora Back-End, atualmente cursando Análise e Desenvolvimento de Sitemas na Uniasselvi. Combinando conhecimento de análise com minha paixão pelo desenvolvimento de software, busco aprimorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho. Sou apaixonada por discutir diversidade, equidade e inclusão no mundo da tecnologia, acreditando firmemente que as mulheres são incríveis na programação!
 
-<img align="right" alt="" height="300px" src="https://th.bing.com/th/id/OIG2.NbMwukjzMyzAcbI7VhEw?pid=ImgGn">
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" />Aprimorando minhas habilidades de desenvolvimento na [Soulcoud](https://alura.com.br/).
@@ -23,43 +23,38 @@ Estou feliz por estar aqui! Sou entusiasta de programação e desenvolvedora Bac
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
 
-### Languages and Technologies
+### Linguagens e tecnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker,babel" />
-</a>
-
-### Frameworks and Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mongodb,mysql,postgres,materialui,jest" />
-</a>
-
-### Tools and Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,linux,npm,yarn,postman" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,spring,mysql, bootstrap" />
 </a>
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> My purpose
-My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary.
+### Ferramentas e paltaformas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+</a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> Meu propósito
+Meu mantra na jornada tecnológica é inspirado na famosa citação de Steve Jobs: "Fique com fome, fique tolo". É a fome de aprender, a audácia de experimentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, a curiosidade e a disposição para correr riscos são nossos maiores aliados para alcançar o extraordinário.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Minhas estatísticas do GitHub
 
 <details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Nível de envolvimento</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=andressarodrigues2172dev&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
 </details>
 <details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Sequência do GitHub </summary>
   <p>
-    <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=andressarodrigues2172dev&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
 </details>
 <details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Linguagens principais </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressarodrigues2172dev&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
 </details>
 
