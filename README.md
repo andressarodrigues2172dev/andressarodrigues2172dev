@@ -1,7 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Andressa+Rodrigues;I'm+31+years+old;I+am+from+Brasília,+DF;I+study+analysis+and+systems+development+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-# Hi there! I'm Andressa Rodrigues (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
 
 Estou feliz por estar aqui! Sou entusiasta de programação e desenvolvedora Back-End, atualmente cursando Análise e Desenvolvimento de Sitemas na Uniasselvi. Combinando conhecimento de análise com minha paixão pelo desenvolvimento de software, busco aprimorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho. Sou apaixonada por discutir diversidade, equidade e inclusão no mundo da tecnologia, acreditando firmemente que as mulheres são incríveis na programação!
