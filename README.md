@@ -3,13 +3,13 @@
 
 
 
-Estou feliz por estar aqui! Sou entusiasta de programação e desenvolvedora Back-End, atualmente cursando Análise e Desenvolvimento de Sitemas na Uniasselvi. Combinando conhecimento de análise com minha paixão pelo desenvolvimento de software, busco aprimorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho. Sou apaixonada por discutir diversidade, equidade e inclusão no mundo da tecnologia, acreditando firmemente que as mulheres são incríveis na programação!
+Combinando conhecimento de análise com minha paixão pelo desenvolvimento de software, busco aprimorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho. Sou apaixonada por discutir diversidade, equidade e inclusão no mundo da tecnologia, acreditando firmemente que as mulheres são incríveis na programação!
 
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" />Aprimorando minhas habilidades de desenvolvimento na [Soulcoude](https://alura.com.br/).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Trabalhando em projetos web incríveis na [Elastech](https://www.dtidigital.com.br/).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" />Aprimorando minhas habilidades de desenvolvimento back-end.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Trabalhando em projetos pessoais que logo logo subirei para os meus repositórios.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Tecnologias que estou aprendendo
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Java, Spring Boot, SQL, e MySQL são as tecnologias que estou estudando atualmente.
