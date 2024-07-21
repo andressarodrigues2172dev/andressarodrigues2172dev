@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Andressa+Rodrigues;I'm+31+years+old;I+am+from+Brasília,+DF;I+study+analysis+and+systems+development+at+Uniasselvi;Be+Welcome!+:%29)](https://git.io/typing-svg)
+![banner final](https://github.com/user-attachments/assets/f36d2bc9-39dc-4423-ad17-467783aa2ec8)
 
 
 
