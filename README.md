@@ -12,8 +12,8 @@ Combinando conhecimento de análise com minha paixão pelo desenvolvimento de so
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Trabalhando em projetos pessoais que logo logo subirei para os meus repositórios.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Tecnologias que estou aprendendo
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Java, Spring Boot, SQL, e MySQL são as tecnologias que estou estudando atualmente.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> E também estou interessa em aprender kotlin , Phyton e  C#!!!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Java,,Phyton, Spring Boot, SQL, e MySQL são as tecnologias que estou estudando atualmente.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> E também estou interessa em aprender kotlin !!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Vamos nos conectar!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:andressa.rodrigues.2172@gmail.com)
