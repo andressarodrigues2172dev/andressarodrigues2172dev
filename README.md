@@ -1,4 +1,4 @@
-![banner final](https://github.com/user-attachments/assets/f36d2bc9-39dc-4423-ad17-467783aa2ec8)
+![Gradient Music Channel  LinkedIn Banner (1)](https://github.com/user-attachments/assets/b83bfadf-0a6e-4ae8-bc9c-6730b08cc612)
 
 
 
